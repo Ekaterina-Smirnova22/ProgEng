@@ -1,7 +1,5 @@
 def main():
-    result = 2*3
-    return result
+    return 2*3
 
 if __name__ == '__main__':
-    answer = main()
-    print(answer)
+    print(main())
